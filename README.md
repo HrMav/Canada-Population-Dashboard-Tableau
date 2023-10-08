@@ -26,3 +26,4 @@ Calculate Men to Women Ratio
 
 SUM([Men]) / SUM([Women])
 
+![image](https://github.com/HrMav/Canada-Population-Dashboard-Tableau/assets/132946730/4d86a518-8e78-4780-94f3-55bd69e2153e)
